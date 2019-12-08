@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/saykaren/FIREmovement/static/css/main.aa8fbd82.chunk.css",
+    "main.js": "/saykaren/FIREmovement/static/js/main.bcfd668a.chunk.js",
+    "main.js.map": "/saykaren/FIREmovement/static/js/main.bcfd668a.chunk.js.map",
+    "runtime-main.js": "/saykaren/FIREmovement/static/js/runtime-main.d9d17c08.js",
+    "runtime-main.js.map": "/saykaren/FIREmovement/static/js/runtime-main.d9d17c08.js.map",
+    "static/js/2.d16061fe.chunk.js": "/saykaren/FIREmovement/static/js/2.d16061fe.chunk.js",
+    "static/js/2.d16061fe.chunk.js.map": "/saykaren/FIREmovement/static/js/2.d16061fe.chunk.js.map",
+    "index.html": "/saykaren/FIREmovement/index.html",
+    "precache-manifest.bf9958f10696ed80eaa1fd18d553cbfb.js": "/saykaren/FIREmovement/precache-manifest.bf9958f10696ed80eaa1fd18d553cbfb.js",
+    "service-worker.js": "/saykaren/FIREmovement/service-worker.js",
+    "static/css/main.aa8fbd82.chunk.css.map": "/saykaren/FIREmovement/static/css/main.aa8fbd82.chunk.css.map",
+    "static/media/home.scss": "/saykaren/FIREmovement/static/media/fireball.b50cce01.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9d17c08.js",
+    "static/js/2.d16061fe.chunk.js",
+    "static/css/main.aa8fbd82.chunk.css",
+    "static/js/main.bcfd668a.chunk.js"
+  ]
+}
