@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "db253f7739bf2d194cb1138b1e53d5f3",
+    "revision": "f37a859577922669873c3becdd71b0e2",
     "url": "/saykaren/FIREmovement/index.html"
   },
   {
-    "revision": "2b57b6f488def58799f1",
+    "revision": "cff968076fe3fd784bda",
     "url": "/saykaren/FIREmovement/static/css/main.aa8fbd82.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/saykaren/FIREmovement/static/js/2.d16061fe.chunk.js"
   },
   {
-    "revision": "2b57b6f488def58799f1",
-    "url": "/saykaren/FIREmovement/static/js/main.bcfd668a.chunk.js"
+    "revision": "cff968076fe3fd784bda",
+    "url": "/saykaren/FIREmovement/static/js/main.a9001c78.chunk.js"
   },
   {
     "revision": "350923d0d5c5003e6b94",
